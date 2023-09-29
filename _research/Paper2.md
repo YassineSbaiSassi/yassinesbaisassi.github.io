@@ -3,13 +3,11 @@ title: "Paper 2 Here"
 collection: research
 permalink: /research/paper2
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-Hey test markdown
+
+<b>Hey test markdown</b>
 
 This paper is about the number 1. The number 2 is left for future work.
 
