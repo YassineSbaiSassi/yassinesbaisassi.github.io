@@ -10,6 +10,6 @@ redirect_from:
 
 I am a PhD student in econometrics in UC Berkeley. My research primarily focuses on estimation and inference on network models. I am also interested in panel data models and matching theory.
 
-Email: yassine.sbai-sassi@berkeley.edu
+Email: [yassine.sbai-sassi@berkeley.edu](mailto:yassine.sbai-sassi@berkeley.edu)
 
 
