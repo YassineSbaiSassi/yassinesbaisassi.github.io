@@ -197,11 +197,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
@@ -212,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: research
+      type: teaching
     values:
       layout: single
       author_profile: true
