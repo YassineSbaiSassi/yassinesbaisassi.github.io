@@ -18,7 +18,9 @@ main:
   - title: "CV"
     #url: /cv/
     url: https://yassinesbaisassi.github.io/files/cv.pdf
-
-    
+  
+  -title: "LinekdIn"
+   url: https://www.linkedin.com/in/yassine-sbai-sassi-869a85a1/
+   
   #- title: "Guide"
     #url: /markdown/
